@@ -1,4 +1,4 @@
 # 3D Molecular Geometry Visualizer
  WWDC 17' Scholarship winning playground...
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of CO2 Molecule](https://i.imgur.com/Uh8pGdG.png)
